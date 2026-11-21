@@ -1,0 +1,103 @@
+{
+ "activities": [
+  {
+   "id": "responsabilita",
+   "title": "Responsabilità",
+   "steps": [
+    {
+     "type": "quiz",
+     "title": "Caso 1 - Il progetto in ritardo",
+     "context": "Un team interfunzionale sta lavorando da tre mesi a un progetto strategico per digitalizzare parte dei processi aziendali. La data di rilascio era stata concordata con la Direzione e comunicata alle funzioni coinvolte. Nelle ultime settimane gli obiettivi sono cambiati più volte, sono emerse nuove richieste e alcune decisioni sono arrivate in ritardo. Il progetto accumula due settimane di ritardo e il cliente interno esprime forte insoddisfazione.\n\nIl project manager sostiene che il team non ha rispettato le scadenze concordate. I membri del team affermano invece che gli obiettivi erano poco chiari e continuamente modificati.",
+     "question": "Chi ha la responsabilità maggiore della situazione?",
+     "options": [
+      "Il project manager, che non ha gestito adeguatamente gli obiettivi e i cambiamenti",
+      "Il team, che avrebbe dovuto segnalare prima le criticità e rispettare gli impegni",
+      "Tutti gli attori coinvolti hanno una quota di responsabilità differente",
+      "Il cliente interno, che ha modificato frequentemente richieste e priorità"
+     ],
+     "correct": 2,
+     "time": 0,
+     "image": ""
+    },
+    {
+     "type": "quiz",
+     "title": "Caso 2 - Feedback arrivato troppo tardi",
+     "context": "Durante il colloquio annuale di valutazione un collaboratore scopre che la propria performance è stata giudicata inferiore alle aspettative. Rimane sorpreso e afferma che durante l'anno nessuno aveva mai evidenziato problemi specifici.\n\nIl manager risponde che i segnali erano evidenti e che il collaboratore avrebbe dovuto accorgersene.",
+     "question": "Chi è maggiormente responsabile di questa situazione?",
+     "options": [
+      "Sia manager sia collaboratore hanno una responsabilità condivisa",
+      "Il manager, che avrebbe dovuto fornire feedback continui e tempestivi",
+      "Il collaboratore, che avrebbe dovuto chiedere attivamente feedback sul proprio operato",
+      "L'HR, che avrebbe dovuto monitorare meglio il processo"
+     ],
+     "correct": 0,
+     "time": 0,
+     "image": ""
+    },
+    {
+     "type": "quiz",
+     "title": "Caso 3 - La segnalazione ignorata",
+     "context": "Un dipendente individua un problema operativo che potrebbe generare ritardi e impatti economici. Invia una mail dettagliata al proprio responsabile illustrando rischi e possibili conseguenze. Dopo alcuni giorni non riceve riscontri. Il problema peggiora e diventa urgente.\n\nQuando la situazione emerge, il manager sostiene che il collaboratore avrebbe dovuto insistere ulteriormente. Il collaboratore replica di aver già segnalato formalmente il problema.",
+     "question": "Chi è maggiormente responsabile?",
+     "options": [
+      "Il collaboratore",
+      "Il manager",
+      "Il sistema organizzativo e i processi interni",
+      "Entrambi hanno una quota di responsabilità"
+     ],
+     "correct": 3,
+     "time": 0,
+     "image": ""
+    },
+    {
+     "type": "quiz",
+     "title": "Caso 4 - Riunioni che non portano risultati",
+     "context": "Da diversi mesi un team partecipa a riunioni molto lunghe, prive di agenda chiara e con poche decisioni concrete. Al termine degli incontri molte persone manifestano insoddisfazione nei corridoi, ma nessuno propone modifiche o suggerisce modalità alternative.\n\nIl responsabile continua a gestire gli incontri nello stesso modo.",
+     "question": "Chi ha la responsabilità maggiore?",
+     "options": [
+      "Il responsabile del team",
+      "Tutti i soggetti coinvolti",
+      "I partecipanti",
+      "L'organizzazione aziendale"
+     ],
+     "correct": 1,
+     "time": 0,
+     "image": ""
+    },
+    {
+     "type": "quiz",
+     "title": "Caso 5 - Introduzione di un nuovo processo digitale",
+     "context": "L'azienda introduce una nuova piattaforma digitale che modifica procedure consolidate da anni. Una parte del personale manifesta difficoltà e resistenza al cambiamento. Il management ribadisce l'importanza dell'adozione del nuovo sistema. I dipendenti ritengono però di aver ricevuto una formazione insufficiente per affrontare il cambiamento con serenità.",
+     "question": "Chi è maggiormente responsabile?",
+     "options": [
+      "Il management",
+      "I dipendenti",
+      "Tutti gli attori coinvolti",
+      "HR e formazione"
+     ],
+     "correct": 2,
+     "time": 0,
+     "image": ""
+    },
+    {
+     "type": "open",
+     "title": "Caso 6",
+     "question": "Cosa è sotto il tuo controllo, anche quando non hai tutta la responsabilità?",
+     "hint": "Scrivi una breve risposta: resterà anonima."
+    }
+   ]
+  },
+  {
+   "id": "momento-top",
+   "title": "Il mio momento top",
+   "steps": [
+    {
+     "type": "open",
+     "title": "Il mio momento top",
+     "question": "Quando ti sei sentito al massimo del tuo potenziale?",
+     "hint": "Scrivi una frase: comparirà sullo schermo."
+    }
+   ]
+  }
+ ]
+}
