@@ -1,0 +1,4 @@
+﻿tipo;titolo;contesto;domanda;A;B;C;D;corretta;secondi;immagine
+quiz;Esempio 1;Descrivi qui la situazione (facoltativo);Qual è la risposta giusta?;Prima risposta;Seconda risposta;Terza risposta;Quarta risposta;B;30;
+quiz;Esempio 2;;Domanda senza contesto e senza timer;Sì;No;Forse;Dipende;D;0;img/mia-immagine.jpg
+aperta;Domanda aperta;;Cosa è sotto il tuo controllo?;;;;;;;
